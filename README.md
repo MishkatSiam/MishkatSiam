@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programing and Hacking
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Anything
-- 📫 reach me at syedmishkatulhaque@gmail.com
+- 📫 Reach me at syedmishkatulhaque@gmail.com
 
 <!---
 MishkatSiam/MishkatSiam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
